@@ -3,8 +3,9 @@ layout: post
 title: "The Importance of Decision Logs in Project Management"
 date: 2024-08-26
 categories: project-management
-tags: [decision-logs, project-management, accountability, transparency]
+tags: [decision-logs, project management, accountability, transparency]
 image: assets/img/posts/20240826DecisionLogs/banner.png
+
 ---
 
 In the fast-paced world of project management, decisions are made daily that can significantly impact the outcome of a project. However, as projects grow in complexity and involve more stakeholders, keeping track of these decisions becomes increasingly challenging. This is where decision logs come into play. A decision log is a simple yet powerful tool that records critical decisions, ensuring that everyone is aligned and that the project moves forward smoothly. In this post, we’ll explore what decision logs are, why they’re essential, and how to effectively maintain them.
